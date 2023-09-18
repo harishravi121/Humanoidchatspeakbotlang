@@ -5,4 +5,4 @@ Improving the codes and writing more.. Ran out of chatgpt subscription.. so stop
 
 Made a random chatter robot after that. 
 
-Wouldn't it be great to keep a chatgpt speaking bot in a museum?
+Wouldn't it be great to keep a chatgpt speaking bot in a museum lol?
