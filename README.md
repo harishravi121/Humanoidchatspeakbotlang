@@ -8,3 +8,5 @@ Made a random chatter robot after that.
 Wouldn't it be great to keep a chatgpt speaking bot in a museum lol?
 
 Some day a cheap caretaker would be awesome !!
+
+The human time delay games are our best friends in codes..
