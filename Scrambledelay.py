@@ -4,6 +4,7 @@ start=time.time()
 flag=0
 #Array of words
 a=['word','hello','high','how','zebra','cricket','football','volleyball','tennis','master','abandon','excercise','narrate','rivet' ]
+#Asks scramble Questions like a human
 def wordify(w): #Given an array of characters, it makes the word
     c=''
     for i in range(len(w)):
