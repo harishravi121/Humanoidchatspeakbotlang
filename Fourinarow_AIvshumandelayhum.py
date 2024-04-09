@@ -1,3 +1,5 @@
+# 4 in a row with human time delay..
+
 import random
 import time
 import numpy as np
