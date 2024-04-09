@@ -2,7 +2,7 @@ import random
 import time
 
 
-
+#Asks questions like a human teacher!
 while 1:
     n1=random.randint(2,100)
     n2=random.randint(2,100)
