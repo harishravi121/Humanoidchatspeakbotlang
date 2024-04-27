@@ -1,11 +1,12 @@
 source='முதலமைச்சர் மாநில இளைஞர் விருதுக்கான விண்ணப்பம் அறிவிக்கப்பட்டுள்ளது.. இந்த விருதினை பெறுவதற்கு எப்படி விண்ணப்பிக்க வேண்டும்'
 sourcesplit=source.split()
-meanings=sourcesplit
-
-sortedsource=sourcesplit
-sortedmeanings=sourcesplit
-
 N=len(sourcesplit)
+meanings=[0]*N
+
+sortedsource=[0]*N
+sortedmeanings=[0]*N
+
+
 start=[0]*N
 from googletrans import Translator
 translator = Translator()
@@ -19,14 +20,18 @@ for i in range(N):
     start[i]=ord(sourcesplit[i][0])
 
 print(start)
-b=start.sort()
+b=start
+b.sort()
 
-sortedsource=sourcesplit
-sortedmeanings=meanings
+sortedsource=[0]*N
+sortedmeanings=[0]*N
+
+
 for i in range(N):
     for j in range(i,N):
         if(b[i]==start[j]):
-            sortedsource[i]=source[j]
+            print(1)
+            sortedsource[i]=sourcesplit[j]
             sortedmeanings[i]=meanings[j]
             
 print(sortedsource,sortedmeanings)
