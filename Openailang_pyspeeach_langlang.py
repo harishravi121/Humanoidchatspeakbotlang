@@ -1,3 +1,4 @@
+#This code was written by Harish in 2023 to speak with OPEN AI about anything in anylanguage.. The code was not written by Open AI.
 import os
 import openai
 import pyttsx3
