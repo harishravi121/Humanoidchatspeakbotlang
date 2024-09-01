@@ -1,4 +1,4 @@
-
+#speak to a simple random bot in any language. Use this if you ran out of Open AI subscription but want a multilingual friend.
 import random
 
 from google_speech import Speech
