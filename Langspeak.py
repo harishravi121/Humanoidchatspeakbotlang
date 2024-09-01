@@ -1,4 +1,4 @@
-#speak to a simple random bot in any language. Use this if you ran out of Open AI subscription but want a multilingual friend.
+#speak to a simple random bot in any language. Use this if you ran out of Open AI subscription but want a multilingual friend. Written by Harish in 2024, Exinc
 import random
 
 from google_speech import Speech
