@@ -17,6 +17,6 @@ while(1):
     print(y)
     translated = translator.translate(y, src=srclang, dest=destlang)
     print(translated.text)
-    speech = Speech(translated.text,srclang)
+    speech = Speech(translated.text,destlang)
     speech.play()
 
