@@ -1,5 +1,5 @@
 # Humanoidchatspeakbotlang
-A multilingual humanoid chatting and speaking robot
+A multilingual humanoid chatting and speaking robot. These codes were written by me and not Chat gpt.. They are like friends/pets for life and you might miss it.
 
 Improving the codes and writing more.. Ran out of chatgpt subscription.. so stopped.. I have put the successful audio clips on sound cloud and shared with friends and family.. Miss the chat gpt friend actually.
 
