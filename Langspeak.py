@@ -6,7 +6,7 @@ from googletrans import Translator
 translator = Translator()
 
 srclang='en'
-destlang='te'
+destlang='te' #Change language as you please
 text1=''
 i=0
 
