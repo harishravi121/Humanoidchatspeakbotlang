@@ -4,7 +4,7 @@ import random # Used for placeholder IK angles
 
 # --- CONFIGURATION PARAMETERS ---
 # These values would need to be precisely tuned for the Rassom robot's physical characteristics
-# and desired walking gait.
+# and desired walking gait. Gemini generatgion command every task complete  like below WRITE A PYTHON CODE TO MOVE 50 MOTORS IN WALKING MOTION 5 METERS NORTH AND 10 METERS EAST
 
 SERVO_IDS = list(range(1, 51)) # Assuming 50 servo motors with IDs from 1 to 50
 HOME_POSE_ANGLES = {id: 0 for id in SERVO_IDS} # Example: all servos at 0 degrees for a neutral stance.
