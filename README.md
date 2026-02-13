@@ -13,4 +13,4 @@ The human time delay games are our best friends in codes..
 
 Webserver is also shown..
 
-Most humanoid bots with chatgpt needs a subscription as of 2026 I have forgotten after a nonth of it.. also gemni i subscribed a few months but never wrote a direct pc integrated python to ai..
+Most humanoid bots with chatgpt needs a subscription as of 2026 I have forgotten after a nonth of it.. also gemni i subscribed a few months but never wrote a direct pc integrated python to ai just too lazy with code interface transition maybe in 2026-2028
